@@ -1,0 +1,7 @@
+bottombotiga.content:
+  path: '/bottombotiga'
+  defaults:
+    _controller: '\Drupal\bottombotiga\Controller\bottombotigaController::template'
+    _title: 'bottombotiga'
+  requirements:
+    _permission: 'access content'

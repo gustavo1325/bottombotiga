@@ -1,0 +1,12 @@
+<?php
+
+function bottombotiga_theme($existing, $type, $theme, $path) {
+return [
+  'bottombotiga' => [
+    'variables'=> [
+     'tlf1'=> NULL,
+     'tlf2'=> NULL,
+   ],
+ ],
+];
+}

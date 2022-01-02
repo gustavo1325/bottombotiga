@@ -1,0 +1,10 @@
+bottombotiga:
+  version: 1.0
+  css:
+    theme:
+      css/global-layout.css: {}
+      css/bottombotiga.css: {}
+  js:
+    js/bottombotiga.js: {}
+  depedencies:
+    - core/jquery
