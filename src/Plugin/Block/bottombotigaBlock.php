@@ -21,8 +21,6 @@ class bottombotigaBlock extends BlockBase {
   public function build() {
     return [
       '#theme' => 'bottombotiga',
-      '#tlf1' => $this->t('645223365'),
-      '#tlf2' => $this->t('635774410'),
       '#attached' => [
         'library' => [
           'bottombotiga/bottombotiga',
