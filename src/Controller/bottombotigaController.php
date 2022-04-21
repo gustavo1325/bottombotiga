@@ -20,9 +20,6 @@ class bottombotigaController extends ControllerBase {
           'bottombotiga/bottombotiga',
         ],
       ],
-
-    //'#type' => 'markup',
-      //'#markup' => $this->t('Hola caracola'),
     ];
   }
 
